@@ -38,3 +38,22 @@ d. Dalam pembagian (divide)
 - jika input pertama kosong, akan menghasilkan error
 - jika input kedua kosong, akan menghasilkan error
 - jika input pertama dan kedua kosong, akan menghasilkan error
+
+## Mengikuti Pattern AAA
+Setiap pengujian disusun sesuai AAA pattern:
+
+✅ Arrange — menyiapkan kondisi dan input yang akan diuji
+✅ Act — memanggil method yang diberi input
+✅ Assert — melakukan verifikasi sesuai output yang diharapkan
+
+```
+//Arrange
+var a = "5";
+var b = "10";
+
+//Act
+var result = calculator.add(a, b);
+
+//Assert
+expect(result, 15.0);
+```
