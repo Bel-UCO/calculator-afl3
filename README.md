@@ -13,6 +13,7 @@ a. Dalam pertambahan (add)
 - jika input pertama kosong, akan menghasilkan error
 - jika input kedua kosong, akan menghasilkan error
 - jika input pertama dan kedua kosong, akan menghasilkan error
+
 b. Dalam pengurangan (subtract)
 - jika input sesuai, maka menghasilkan output sesuai
 - jika input pertama tidak sesuai, akan menghasilkan error
@@ -21,6 +22,7 @@ b. Dalam pengurangan (subtract)
 - jika input pertama kosong, akan menghasilkan error
 - jika input kedua kosong, akan menghasilkan error
 - jika input pertama dan kedua kosong, akan menghasilkan error
+
 c. Dalam perkalian (multiply)
 - jika input sesuai, maka menghasilkan output sesuai
 - jika input pertama tidak sesuai, akan menghasilkan error
@@ -29,6 +31,7 @@ c. Dalam perkalian (multiply)
 - jika input pertama kosong, akan menghasilkan error
 - jika input kedua kosong, akan menghasilkan error
 - jika input pertama dan kedua kosong, akan menghasilkan error
+
 d. Dalam pembagian (divide)
 - jika input sesuai, maka menghasilkan output sesuai
 - jika input dibagi 0, maka akan menghasilkan error
